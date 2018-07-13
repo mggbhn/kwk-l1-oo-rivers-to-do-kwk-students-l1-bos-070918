@@ -16,7 +16,7 @@ end
 
 def dry_up
   @discharge = discharge - (discharge/2)
-
+end
 end
 
 # mississippi = River.new("Mississippi")
